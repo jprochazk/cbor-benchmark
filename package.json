@@ -10,7 +10,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "cbor": "file:../cbor"
+        "cbor": "npm:@jprochazk/cbor@^0.2.5"
     },
     "devDependencies": {
         "ts-loader": "^7.0.5",
